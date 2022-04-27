@@ -33,7 +33,7 @@ const ProjectCatalyst = () => {
         <BreadCrumb ml='20px' links={breadcrumbLinks} />
 
         <WarningMessage mx='15px' mt='30px'>
-          This resources is in beta. The resource will look to receive more feedback from IOG and the community to make any corrections and improvements.
+          These learning resources are in currently in beta.  We invite the community to provide feedback for any corrections and improvements that may be needed.
         </WarningMessage>
 
         <Column width='100%' mt='40px' px='10px'>
@@ -52,7 +52,7 @@ const ProjectCatalyst = () => {
           </Text>
 
           <Text mt='15px' mb='10px'>
-            To do this, Project Catalyst is divided into a series of funds which are deployed every six weeks. These funds will illicit ideas in the form of proposals from participants. Each proposal will focus around a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals will then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized they will be voted on by the community and funds will be distributed in the form of ada to winning projects. Each stage of this process is described in greater detail throughout this document.
+            To do this, Project Catalyst is divided into a series of funds which are deployed every six weeks. These funds will attract new ideas and initiatives in the form of proposals from participants. Each proposal will focus around a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals will then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized they will be voted on by the community and funds will be distributed in the form of ADA to winning projects. Each stage of this process is described in greater detail throughout this document.
           </Text>
 
           <Text mt='35px' variant='subHeading' bold>
